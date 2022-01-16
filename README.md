@@ -18,8 +18,8 @@ Here I am writing Software Engineer (PHP) Interview Questions which may you face
 | 
  < div class="first" >
 	My Text
-	<span> New </span>
-< div> 
+	< span > New </ span >
+< div > 
 How to select "My Text" only in Jquery? |
 
 | What is difference between some() and every() in javascript? |
