@@ -16,10 +16,10 @@ Here I am writing Software Engineer (PHP) Interview Questions which may you face
 | How to manage big database? |
 | Write a query in mysql to get first/second/third marked of the students |
 | 
-`<div class="first">
+ < div class="first" >
 	My Text
 	<span> New </span>
-</div>`
+< div> 
 How to select "My Text" only in Jquery? |
 
 | What is difference between some() and every() in javascript? |
