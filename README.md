@@ -21,6 +21,11 @@ Here I am writing Software Engineer (PHP) Interview Questions which may you face
 | What is vue js? |
 | What is data binding? |
 | Why javascript is so faster? |
+| What is interface in OOP and Why Use it? |
+| Multiple Interface |
+| What is normalization? |
+| How to manage big database?|
+| Laravel Application lifeCycle |
 
 
 
