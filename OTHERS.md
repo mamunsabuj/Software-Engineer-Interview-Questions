@@ -1,7 +1,10 @@
 # Software-Engineer-Interview-Questions
-Here I am writing Software Engineer (PHP) Interview Questions which may you face in your Job interview.
+Hi, These are the  Interview Questions for  Software Engineer (PHP) which may you face in your Job interview.
 
 ## Table of Contents
-| [PHP]( README.md ) | 
-| [ Javascript ](JAVASCRIPT.md) |
-| [ Others ](OTHERS.md) |
+| [PHP](README.md) | 
+| [Javascript](JAVASCRIPT.md) |
+| [Laravel](LARAVEL.md) |
+| [VUE](VUE.md) |
+| [Others](OTHERS.md) |
+|----------------|
