@@ -3,7 +3,8 @@ Here I am writing Software Engineer (PHP) Interview Questions which may you face
 
 ## Table of Contents
 | [PHP]( README.md ) | 
-[ Javascript ](README.md) |
+| [ Javascript ](JAVASCRIPT.md) |
+| [ Others ](OTHERS.md) |
 |Questions|
 |---------------|
 | Tell me about yourself|
