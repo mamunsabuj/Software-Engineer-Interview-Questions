@@ -2,9 +2,9 @@
 Here I am writing Software Engineer (PHP) Interview Questions which may you face in your Job interview.
 
 ## Table of Contents
-| [PHP]( README.md ) | 
-| [ Javascript ](JAVASCRIPT.md) |
-| [ Others ](OTHERS.md) |
+| ###[PHP](README.md) | 
+| ###[Javascript](JAVASCRIPT.md) |
+| ###[Others](OTHERS.md) |
 |Questions|
 |---------------|
 | Tell me about yourself|
