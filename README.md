@@ -13,17 +13,16 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 ### Q. What is PHP 
 ### Q. Why use caching? Memcache/Redis
 ### Q. Write foodpanda site database schema 
-### Q. How to find near shop in Google map? 
-### Q. Write What's app system anylysis steps 
+### Q. How to find nearest shop in Google map? 
+### Q. Write WhatsApp system anylysis steps 
 ### Q. How to manage big database? 
-### Q. Write a query in mysql to get first/second/third marked of the students 
+### Q. Write a query in mysql to get first/second/third  score of the students 
 ### Q. What is flex in css ? 
 ### Q. Difference amount Block, Inline and Inline Block css 
 ### Q. What is interface in OOP and Why Use it? 
 ### Q. Multiple Interface 
 ### Q. What is normalization? 
 ### Q. How to manage big database?
-### Q. Laravel Application lifeCycle 
 ### Q. What is solid principle in PHP?  
 ### Q. Usecase of abstraction and Interface ? 
 ### Q. Describe Database Normalization 
