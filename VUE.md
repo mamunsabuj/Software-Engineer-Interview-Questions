@@ -10,6 +10,6 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 
 ## Questions
 
-### What is Vue js?
-### What is data binding? 
-### Why javascript is so faster? 
+### Q. What is Vue js?
+### Q. What is data binding? 
+### Q. Why javascript is so faster? 

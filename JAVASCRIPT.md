@@ -9,4 +9,4 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 | [Others](OTHERS.md) |
 
 ## Questions
-### What is difference between some() and every() in javascript?
+### Q. What is difference between some() and every() in javascript?
