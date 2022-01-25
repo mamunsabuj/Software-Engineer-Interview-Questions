@@ -7,8 +7,7 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 | [Laravel](LARAVEL.md) |
 | [VUE](VUE.md) |
 | [Others](OTHERS.md) |
-|----------------|
 
-|Questions|
-|---------------|
-| Tell me about yourself|
+
+## Questions
+### Tell me about yourself

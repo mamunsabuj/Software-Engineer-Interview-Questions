@@ -7,8 +7,9 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 | [Laravel](LARAVEL.md) |
 | [VUE](VUE.md) |
 | [Others](OTHERS.md) |
-|Questions|
-|---------------|
-| What is Vue js?|
-| What is data binding? |
-| Why javascript is so faster? |
+
+## Questions
+
+### What is Vue js?
+### What is data binding? 
+### Why javascript is so faster? 

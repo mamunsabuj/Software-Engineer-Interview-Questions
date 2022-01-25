@@ -7,6 +7,6 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 | [Laravel](LARAVEL.md) |
 | [VUE](VUE.md) |
 | [Others](OTHERS.md) |
-|Questions|
-|---------------|
-| What is difference between some() and every() in javascript? |
+
+## Questions
+### What is difference between some() and every() in javascript?
