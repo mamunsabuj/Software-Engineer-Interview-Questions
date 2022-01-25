@@ -2,6 +2,8 @@
 Here I am writing Software Engineer (PHP) Interview Questions which may you face in your Job interview.
 
 ## Table of Contents
+| [PHP]( README.md ) | 
+[ Javascript ](README.md) |
 |Questions|
 |---------------|
 | Tell me about yourself|
@@ -26,6 +28,10 @@ Here I am writing Software Engineer (PHP) Interview Questions which may you face
 | What is normalization? |
 | How to manage big database?|
 | Laravel Application lifeCycle |
+| What is solid principle in PHP?  |
+| Usecase of abstraction and Interface ? |
+| Describe Database Normalization |
+| Is database normalization is better technic in all the time? |
 
 
 
