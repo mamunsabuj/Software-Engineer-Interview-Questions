@@ -27,6 +27,14 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 ### Q. Usecase of abstraction and Interface ? 
 ### Q. Describe Database Normalization 
 ### Q. Is database normalization is better technic in all the time? 
+### Q. Discribe __call() magic method.
+### Q. How to create a vendor package in PHP?
+### Q. Tell About JWT.
+### Q. Describe about Oauth.
+### Q. Describe Laravel Password.
+### Q. Tell about PHP predifined class
+### Q. PHP  destructon method.
+### Q. How to create a excel export query if million of data exist in database. (Mysql Limit- Laravel Chunk)
 
 
 
