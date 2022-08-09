@@ -34,7 +34,7 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 ### Q. Describe Laravel Password.
 ### Q. Tell about PHP predifined class
 ### Q. PHP  destructon method.
-### Q. How to create a excel export query if million of data exist in database. (Mysql Limit- Laravel Chunk)
+### Q. How to create an excel export query if the database has millions of data. (Mysql Limit- Laravel Chunk)
 
 
 
