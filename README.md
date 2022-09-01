@@ -18,7 +18,7 @@ Hi, These are the  Interview Questions for  Software Engineer (PHP) which may yo
 ### Q. How to manage big database? 
 ### Q. Write a query in mysql to get first/second/third  score of the students 
 ### Q. What is flex in css ? 
-### Q. Difference amount Block, Inline and Inline Block css 
+### Q. Difference among Block, Inline and Inline Block css 
 ### Q. What is interface in OOP and Why Use it? 
 ### Q. Multiple Interface 
 ### Q. What is normalization? 
